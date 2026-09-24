@@ -5,7 +5,7 @@ Thank you for your interest in contributing to WebGenAI!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/webgenai.git
+git clone https://github.com/Automate-Capture/webgenai.git
 cd webgenai
 pip install -e ".[dev]"
 ```

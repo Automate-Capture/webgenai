@@ -9,7 +9,7 @@ pip install webgenai
 ## From Source
 
 ```bash
-git clone https://github.com/Lumi-node/webgenai.git
+git clone https://github.com/Automate-Capture/webgenai.git
 cd webgenai
 pip install -e ".[dev]"
 ```

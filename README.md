@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/webgenai"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
-  <a href="https://github.com/Lumi-node/webgenai"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
-  <a href="https://github.com/Lumi-node/webgenai"><img src="https://img.shields.io/badge/Tests-8%20files-green.svg" alt="8 test files"></a>
+  <a href="https://github.com/Automate-Capture/webgenai"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
+  <a href="https://github.com/Automate-Capture/webgenai"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://github.com/Automate-Capture/webgenai"><img src="https://img.shields.io/badge/Tests-8%20files-green.svg" alt="8 test files"></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ This project explores the feasibility of using advanced machine learning models 
 
 ```bash
 # Install from source
-git clone https://github.com/Lumi-node/webgenai.git
+git clone https://github.com/Automate-Capture/webgenai.git
 cd webgenai
 pip install .
 
